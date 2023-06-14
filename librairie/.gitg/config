@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "remotelib"]
+	url = https://github.com/lehbib2013/librairie.git
+	fetch = +refs/heads/*:refs/remotes/remotelib/*
+[branch "master"]
+	remote = remotelib
+	merge = refs/heads/master
+[pull]
+	rebase = false
