@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     "name": "Librairie Management",
-    "summary": "Manage library catalog and book lending.",
+    "summary": "Manage library catalog and book lending 455",
     "author": "Med Lehbib Youba",
     "license": "AGPL-3",
     "website": "https://github.com/PacktPublishing"
