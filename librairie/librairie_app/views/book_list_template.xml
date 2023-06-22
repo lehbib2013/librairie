@@ -1,4 +1,5 @@
 <odoo>
+
     <template id="book_list_template" name="Book List">
         <div id="wrap" class="container">
             <h1>Books</h1>
@@ -11,4 +12,5 @@
             </t>
         </div>
     </template>
+
 </odoo>
